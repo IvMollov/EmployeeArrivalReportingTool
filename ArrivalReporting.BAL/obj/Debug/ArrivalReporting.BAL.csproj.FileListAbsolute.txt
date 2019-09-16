@@ -1,0 +1,12 @@
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\ArrivalReporting.BAL.pdb
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\EntityFramework.dll
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\ArrivalReporting.DAL.pdb
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\EntityFramework.xml
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\obj\Debug\ArrivalReporting.BAL.csprojResolveAssemblyReference.cache
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\obj\Debug\ArrivalReporting.BAL.pdb
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\ArrivalReporting.BAL.dll.config
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\ArrivalReporting.BAL.dll
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\obj\Debug\ArrivalReporting.BAL.dll
+D:\Projects\Fourth-Task\ArrivalReporting.BAL\bin\Debug\ArrivalReporting.DAL.dll

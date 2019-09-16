@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{A9F27B12-6483-461E-BD5E-BF227AD2E66C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{906A7439-1E4A-4290-8254-5F69BC1AD867}"
+	ProjectSection(SolutionItems) = preProject
+		Data\employees.json = Data\employees.json
+		Data\employees.txt = Data\employees.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonEmployeeGenerator", "JsonEmployeeGenerator\JsonEmployeeGenerator.csproj", "{4F88BA2B-455B-407A-89EC-2A28F2702E44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArrivalReporting", "ArrivalReporting", "{7D248036-AC01-4F9E-AACE-AD2C8DB30A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrivalReporting.Web", "ArrivalReporting.Web\ArrivalReporting.Web.csproj", "{CD77CDB6-D901-4E5C-82EB-1A7219A45271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrivalReporting.DAL", "ArrivalReporting.DAL\ArrivalReporting.DAL.csproj", "{632555C4-AA54-4975-82D8-9344F78D7DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrivalReporting.BAL", "ArrivalReporting.BAL\ArrivalReporting.BAL.csproj", "{449D7FE5-5B8C-4D83-A537-17DC55363825}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comments", "Comments", "{9A32584D-8440-4A01-AF2D-BA701348A233}"
+	ProjectSection(SolutionItems) = preProject
+		JsonEmployeeGenerator.cs = JsonEmployeeGenerator.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD77CDB6-D901-4E5C-82EB-1A7219A45271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD77CDB6-D901-4E5C-82EB-1A7219A45271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD77CDB6-D901-4E5C-82EB-1A7219A45271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD77CDB6-D901-4E5C-82EB-1A7219A45271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632555C4-AA54-4975-82D8-9344F78D7DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632555C4-AA54-4975-82D8-9344F78D7DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632555C4-AA54-4975-82D8-9344F78D7DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632555C4-AA54-4975-82D8-9344F78D7DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449D7FE5-5B8C-4D83-A537-17DC55363825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449D7FE5-5B8C-4D83-A537-17DC55363825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449D7FE5-5B8C-4D83-A537-17DC55363825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449D7FE5-5B8C-4D83-A537-17DC55363825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD77CDB6-D901-4E5C-82EB-1A7219A45271} = {7D248036-AC01-4F9E-AACE-AD2C8DB30A9C}
+		{632555C4-AA54-4975-82D8-9344F78D7DA7} = {7D248036-AC01-4F9E-AACE-AD2C8DB30A9C}
+		{449D7FE5-5B8C-4D83-A537-17DC55363825} = {7D248036-AC01-4F9E-AACE-AD2C8DB30A9C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\ArrivalReporting.DAL.pdb
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\obj\Debug\ArrivalReporting.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\obj\Debug\ArrivalReporting.DAL.pdb
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\ArrivalReporting.DAL.dll.config
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\bin\Debug\ArrivalReporting.DAL.dll
+D:\Projects\Fourth-Task\ArrivalReporting.DAL\obj\Debug\ArrivalReporting.DAL.dll
